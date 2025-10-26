@@ -1,3 +1,7 @@
-export const StopBtn = ({ stopTimer }) => {
-  return <button onClick={stopTimer}>Order a shopper</button>;
+export const StopBtn = ({ stopTimer, count }) => {
+  return (
+    <button disabled={count > 0 ? false : true} onClick={stopTimer}>
+      Order a shopper
+    </button>
+  );
 };

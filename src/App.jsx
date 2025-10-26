@@ -38,7 +38,7 @@ const App = () => {
   return (
     <>
       <Output count={count} endTime={endTime} />
-      <StopBtn stopTimer={stopTimer} />
+      <StopBtn count={count} stopTimer={stopTimer} />
       <Modal isOpened={isOpened} closeModal={closeModal} />
     </>
   );
