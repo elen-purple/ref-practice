@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ref-practice/static/js/main.fd21f15d.js",
+    "main.js": "/ref-practice/static/js/main.c49d424f.js",
     "index.html": "/ref-practice/index.html",
-    "main.fd21f15d.js.map": "/ref-practice/static/js/main.fd21f15d.js.map"
+    "main.c49d424f.js.map": "/ref-practice/static/js/main.c49d424f.js.map"
   },
   "entrypoints": [
-    "static/js/main.fd21f15d.js"
+    "static/js/main.c49d424f.js"
   ]
 }
